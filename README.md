@@ -18,10 +18,3 @@ Parsing completed in 144.57761001586914 seconds. Total of 32612 links.
 ```
 
 
-# Live Demo
-
-https://moviescraper123.herokuapp.com/search?title=Avenger
-
-https://moviescraper123.herokuapp.com/episodes?movieId=[MovieId]
-
-https://moviescraper123.herokuapp.com/episodes?instanceId=[instanceId]
